@@ -3,6 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const currentDate = new Date();
     const holidays = [
 '2024-01-01', // New Year's Day
+'2024-03-23', // Pakistan Day
 '2024-04-08', // Eid Al-Fitr (approx. start)
 '2024-04-09', // Eid Al-Fitr (approx. second day)
 '2024-04-10', // Eid Al-Fitr (approx. third day)
@@ -10,9 +11,9 @@ document.addEventListener("DOMContentLoaded", function() {
 '2024-06-17', // Eid Al-Adha (approx. start)
 '2024-06-18', // Eid Al-Adha (approx. second day)
 '2024-07-07', // Islamic New Year (Hijri New Year, approx.)
+'2024-08-14', // Independence Day
 '2024-09-15', // Prophet Muhammad's Birthday (approx.)
-'2024-12-02', // UAE National Day
-'2024-12-03'  // UAE National Day (second day)
+'2024-12-25'  // Quaid-e-Azam Day / Christmas Day
     ];
 
     // Get current date in 'YYYY-MM-DD' format
